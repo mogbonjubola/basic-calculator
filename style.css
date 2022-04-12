@@ -20,7 +20,7 @@ body{
 	width: 100%;
 	height: 60px;
 	padding: 40px 0;
-	background: pink;
+	background: blue;
 	border-top-left-radius: 15px;
 	border-top-right-radius: 15px;
 }
@@ -44,7 +44,7 @@ input[type=button] {
 	border: none;
 	font-size: 30px;
 	border-radius: 50%;
-	color: fuchsia;
+	color: blue;
 	cursor: pointer;
 }
 
